@@ -1,0 +1,1 @@
+This is the master branch for the SpoonSDK. Currently the baseline version of the Adobe Flex 4.5 sdk exists in the Adobe branch. Lead Spoon (v.1) of the Spoon SDK is coming soon.
